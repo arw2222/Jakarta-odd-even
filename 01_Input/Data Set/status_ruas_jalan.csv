@@ -1,0 +1,11 @@
+﻿route;road;year_gage;nearest_road;width
+1;Hayam Wuruk - Gajah Mada;2019;1_gajah_mada;12
+2;Sudirman;2018;2_sudirman;10
+3;Sisingamaraja - Fatmawati;2019;3_fatmawati;7
+4;Tomang;2019;4_tomang;7
+5;Gatot Subroto - MT Haryono;2018;5_gatsu_haryono;8
+6;Rasuna Said;2018;6_rasuna_said;5
+7;Ahmad Yani - DI Panjaitan;2018;7_ahmad_yani;6
+8;Pramuka;2019;8_pramuka;6
+9;Salemba - Gunung Sahari;2019;9_salemba;12
+0;Not_Gage;;0_not_gage;5.5
